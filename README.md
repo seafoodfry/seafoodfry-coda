@@ -1,2 +1,2 @@
-# seafoodfry-coda
+# seafoodfry-code
 Code for the blog
